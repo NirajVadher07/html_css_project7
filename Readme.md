@@ -22,4 +22,4 @@ In this project i get to learn many thing like
 - `7 hours`
 
 ## Live link of project
- - [PROJECT 7]()
+ - [PROJECT 7](https://tempproject7.netlify.app/)
